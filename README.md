@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **mansisharma.8.k@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ceP4FgKBrRdg5iGVg6bNrvrT4Ioy3pnh/view?usp=sharing](https://drive.google.com/file/d/1ceP4FgKBrRdg5iGVg6bNrvrT4Ioy3pnh/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1ceP4FgKBrRdg5iGVg6bNrvrT4Ioy3pnh/view?usp=sharing](https://drive.google.com/file/d/1x9iAeKiawItG0pUTd7IS2ZbL7FARj8LZ/view?usp=sharing)
 
 - ⚡ Fun fact **Helped students from all over the world in learning to speak English**
 
