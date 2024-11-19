@@ -1,19 +1,15 @@
 <h1 align="center">Hi 👋, I'm Mansi Sharma</h1>
-<h3 align="center">Software Data Scientist 👩‍💻📈</h3>
+<h3 align="center">Data Science Engineer 👩‍💻📈</h3>
 
-- 🔭 I’m currently working on [Measuring Polarization of the CBM at the James Ax Observatory](https://cosmology.ucsd.edu/Polarbear/)
+- 🔭 I’m currently working on [enhancing transportation modeling through data analysis, summarization, and process improvements]([(https://www.sandag.org/data-and-research/transportation-modeling)])
 
-- 🌱 I’m currently learning **RNNs, LSTMs, Transformers and Generative modeling**
-
-- 👯 I’m looking to collaborate on **Time Series forecasting and applications of supercomputer**
-
-- 👨‍💻 All of my projects are available at [https://mansisharma8.github.io/](https://mansisharma8.github.io/)
+- 👯 I’m looking to collaborate on **Data science, engineering, analytics, modeling and automation**
 
 - 💬 Ask me about **Data transformation, Statistical data analysis and Automation**
 
 - 📫 How to reach me **mansisharma.8.k@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ceP4FgKBrRdg5iGVg6bNrvrT4Ioy3pnh/view?usp=sharing](https://drive.google.com/file/d/1x9iAeKiawItG0pUTd7IS2ZbL7FARj8LZ/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1AMU0mZBg_0FWQPMv0o8UOuyt6LeX9-nt/view?usp=sharing]([(https://drive.google.com/file/d/1AMU0mZBg_0FWQPMv0o8UOuyt6LeX9-nt/view?usp=sharing)])
 
 - ⚡ Fun fact **Helped students from all over the world in learning to speak English**
 
