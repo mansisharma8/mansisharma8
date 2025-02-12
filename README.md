@@ -1,15 +1,31 @@
 <h1 align="center">Hi 👋, I'm Mansi Sharma</h1>
-<h3 align="center">Data Science Engineer 👩‍💻📈</h3>
+<h3 align="center">Data Scientist | Data Analyst | Data Engineer | ML Enthusiast 👩‍💻📈</h3>
 
-- 🔭 I’m currently working on [enhancing transportation modeling through data analysis, summarization, and process improvements]([(https://www.sandag.org/data-and-research/transportation-modeling)])
+- 🔭 Passionate about data science, machine learning, and analytics, I love solving real-world problems using data-driven insights. I have experience working on big data systems, statistical modeling, and AI-powered applications.
 
-- 👯 I’m looking to collaborate on **Data science, engineering, analytics, modeling and automation**
+- 👯 **Looking to collaborate on:**  
+- Data Science & Machine Learning  
+- Big Data & Scalable Data Pipelines  
+- Automation & Cloud Computing  
+- Statistical Data Analysis  
 
-- 💬 Ask me about **Data transformation, Statistical data analysis and Automation**
+- 💬 **Ask me about:**  
+- Data Transformation & ETL  
+- Statistical Modeling & Forecasting  
+- Cloud-based Scalable Data Systems
+
+- 📊 **Technical Skills:**  
+- **Programming:** Python | R | SQL | JavaScript | MATLAB | C++  
+- **Machine Learning & AI:** Scikit-learn | PyTorch | TensorFlow | NLP | Deep Learning  
+- **Big Data & Cloud:** AWS (S3, Redshift, Glue) | Apache Spark | Hadoop | Google Cloud | Azure DevOps  
+- **Data Engineering & Analytics:** PostgreSQL | MySQL | MongoDB | Power BI | Tableau  
+- **Automation & DevOps:** Docker | Kubernetes | Flask | Git | Jenkins  
 
 - 📫 How to reach me **mansisharma.8.k@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1AMU0mZBg_0FWQPMv0o8UOuyt6LeX9-nt/view?usp=sharing]([(https://drive.google.com/file/d/1AMU0mZBg_0FWQPMv0o8UOuyt6LeX9-nt/view?usp=sharing)])
+📄 **Check out my Resume:**  
+[View Resume](https://drive.google.com/file/d/1ZgRZF-IZmMQAVPNzuEh03FT0MPnTTYRv/view?usp=sharing)  
+
 
 - ⚡ Fun fact **Helped students from all over the world in learning to speak English**
 
