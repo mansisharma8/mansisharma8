@@ -29,7 +29,7 @@
 
 
 📄 **Check out my Resume:**  
-[View Resume](https://drive.google.com/file/d/1ZgRZF-IZmMQAVPNzuEh03FT0MPnTTYRv/view?usp=sharing)  
+[View Resume](https://drive.google.com/file/d/1C2eEDd69GJ6k8IPWa27ilX83h1bEP7Sy/view?usp=sharing)  
 
 
 ⚡ Fun fact **Helped students from all over the world in learning to speak English**
